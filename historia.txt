@@ -1,1 +1,2 @@
 master text
+this is some conflict
